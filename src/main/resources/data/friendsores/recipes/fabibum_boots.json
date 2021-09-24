@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "x x",
+    "x x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "friendsores:fabibum"
+    }
+  },
+  "result":
+  {
+    "item": "friendsores:fabibum_boots",
+    "count": 1
+  }
+}

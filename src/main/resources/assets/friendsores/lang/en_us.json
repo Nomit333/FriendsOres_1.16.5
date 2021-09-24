@@ -1,0 +1,29 @@
+{
+  "item.friendsores.lindroid": "Lindroid",
+  "item.friendsores.fabibum": "Fabibum",
+
+  "item.friendsores.lindroid_axe": "Lindroid Axe",
+  "item.friendsores.lindroid_pickaxe": "Lindroid Pickaxe",
+  "item.friendsores.lindroid_shovel": "Lindroid Shovel",
+  "item.friendsores.lindroid_sword": "Lindroid Sword",
+  "item.friendsores.lindroid_hoe": "Lindroid Hoe",
+
+  "item.friendsores.fabibum_axe": "Fabibum Axe",
+  "item.friendsores.fabibum_pickaxe": "Fabibum Pickaxe",
+  "item.friendsores.fabibum_shovel": "Fabibum Shovel",
+  "item.friendsores.fabibum_sword": "Fabibum Sword",
+  "item.friendsores.fabibum_hoe": "Fabibum Hoe",
+
+  "item.friendsores.fabibum_helmet": "Fabibum Helmet",
+  "item.friendsores.fabibum_chestplate": "Fabibum Chestplate",
+  "item.friendsores.fabibum_leggings": "Fabibum Leggings",
+  "item.friendsores.fabibum_boots": "Fabibum Boots",
+
+  "block.friendsores.lindroid_ore": "Lindroid Ore",
+  "block.friendsores.lindroid_block": "Lindroid Block",
+  "block.friendsores.fabibum_ore": "Fabibum Ore",
+  "block.friendsores.fabibum_ore_nether": "Fabibum Nether Ore",
+  "block.friendsores.fabibum_block": "Fabibum Block",
+
+  "itemGroup.FriendsOres": "Friends Ores"
+}

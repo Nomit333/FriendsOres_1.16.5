@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xx ",
+    "xs ",
+    " s "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "friendsores:lindroid"
+    },
+	"s":
+	{
+	  "item": "minecraft:stick"	
+    }
+  },
+  "result":
+  {
+    "item": "friendsores:lindroid_axe",
+    "count": 1
+  }
+}

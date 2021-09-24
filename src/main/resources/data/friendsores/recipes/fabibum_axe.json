@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xx ",
+    "xs ",
+    " s "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "friendsores:fabibum"
+    },
+	"s":
+	{
+	  "item": "minecraft:stick"	
+    }
+  },
+  "result":
+  {
+    "item": "friendsores:fabibum_axe",
+    "count": 1
+  }
+}
